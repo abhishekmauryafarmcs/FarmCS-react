@@ -69,6 +69,7 @@ test-*.js
 /*
 !.gitignore
 !README.md
+!vercel.json
 !index.html
 !login.html
 !signup.html
